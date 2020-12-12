@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "5f3acd76cd894233",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d5a1bb694f687c9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Actuarial/Loss Data Analytics - Structure and Scope.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ecfe8ab7601bee7e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Actuarial/Loss Data Analytics - Structure and Scope.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4ee2d3a96d23a5e6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Actuarial/Loss Data Analytics - Structure and Scope.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "240c63071ebacc0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae3b81a1770a82fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d17233c8e0e3f199",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "632a0209e2d218f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45c1b81f3d795d09",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0aaa3ef20d7dbe8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Actuarial/Loss Data Analytics - Structure and Scope.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2927a85c12348723",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6cae2bdf4d868c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34819956d336f3cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Actuarial/Loss Data Analytics - Structure and Scope.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd9f2a26fc390bc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "df34749e26e39865",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Actuarial/Loss Data Analytics - Structure and Scope.md",
+    "Day Planners/Day Planner-20201211.md",
+    "Actuarial/Untitled.md"
+  ]
+}
